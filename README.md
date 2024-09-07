@@ -31,8 +31,11 @@ Este projeto é open-source, o que significa que você pode contribuir com novas
 
 ### **Agradecimentos:**
 
+Agradeço primeiro ao Alura que disponibilizou essa aula, fico feliz por ter dado essa oportunidade queria muito experimentar o Alura de verdade e foi uma experiencia incrivel pra mim de coração e não queria acabasse sério mesmo. Espero por mais, grato demais, eternamente grato. Primeiro projeto de muitos e um dia voltarei aqui e verei meu primeiro codigo to bem feliz mesmo!
 Agradecemos à Riot Games pela criação de League of Legends e por disponibilizar as informações sobre os campeões.
 
 **Vamos juntos explorar o universo de Runeterra!**
 
 **#LeagueOfLegends #Frontend #JavaScript #HTML #CSS #OpenSource**
+
+https://league-of-champions-two.vercel.app/
