@@ -1,4 +1,4 @@
-## League of Champions: Seu guia pessoal para o universo de Runeterra!
+## League of Champions: Seu guia pessoal para o universo de Runeterra! - Imersão Dev com Google Gemini
 
 ** Descubra os segredos dos campeões de League of Legends!**
 
